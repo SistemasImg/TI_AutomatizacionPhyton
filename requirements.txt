@@ -1,0 +1,8 @@
+numpy
+openpyxl
+pandas
+pymupdf4llm
+python-dotenv
+requests
+simple-salesforce
+tkinterdnd2
